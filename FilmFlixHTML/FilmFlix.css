@@ -1,0 +1,34 @@
+/* font-family: 'Bungee Spice', cursive;
+font-family: 'Great Vibes', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Righteous', cursive;
+font-family: 'Roboto Serif', serif;
+font-family: 'Teko', sans-serif; */
+body{
+    background-image: url(https://img.freepik.com/free-photo/movie-background-collage_23-2149876028.jpg?size=626&ext=jpg&ga=GA1.1.1925166422.1679348846&semt=ais) ;
+    background-size: cover;
+    background-color:black;
+}
+h1{
+    font-size: 60px;
+    font-family: 'Playfair Display', serif;
+    color:gold;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+h2{
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive; 
+    color: gold;
+    text-align: center;
+}
+.frame{
+    width:1000px;
+    height:600px;
+    align-items: center;
+    margin-left: 25%;
+    border-color: gold;
+    font-size: 100px;
+}
