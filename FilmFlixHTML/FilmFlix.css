@@ -8,10 +8,9 @@ font-family: 'Teko', sans-serif; */
 body{
     background-image: url(https://img.freepik.com/free-photo/movie-background-collage_23-2149876028.jpg?size=626&ext=jpg&ga=GA1.1.1925166422.1679348846&semt=ais) ;
     background-size: cover;
-    background-color:black;
 }
 h1{
-    font-size: 60px;
+    font-size: 50px;
     font-family: 'Playfair Display', serif;
     color:gold;
     font-weight: bolder;
@@ -19,16 +18,17 @@ h1{
     
 }
 h2{
-    font-size: 30px;
+    font-size: 20px;
     font-family: 'Dancing Script', cursive; 
     color: gold;
     text-align: center;
 }
 .frame{
-    width:1000px;
-    height:600px;
+    display: flex;
+    width: 60%;
+    height: 70vh;
     align-items: center;
-    margin-left: 25%;
+    margin-left: 20%;
     border-color: gold;
     font-size: 100px;
 }
